@@ -1,0 +1,1 @@
+Esta organização tem o intuito de compartilhar estudos de diversas linguagens e criar interações entre projetos, seja para tirar duvidas que gerou em um projeto, quando compartilhar conhecimento de forma geral.
